@@ -1,5 +1,4 @@
 ## Team Name \<Your Team Name> - \<Your Project Type(App/Web)>
-smol edit
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
