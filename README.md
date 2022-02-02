@@ -33,8 +33,8 @@ Share link of your application demostration video.
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
-|Member 1|mem1@example.com|Something important|
-|Member 2|mem2@example.com|Something important|
+|Souvik Nayak|mem1@example.com|Something important|
+|Aditya Prasad Mishra|mem2@example.com|Something important|
 
 ### References
 Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project.
