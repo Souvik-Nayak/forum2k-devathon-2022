@@ -1,4 +1,4 @@
-## Team Name : "runtime_terror" | Your Project Type : Web App>
+## Team Name : "runtime_terror" | Your Project Type : Web App
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
