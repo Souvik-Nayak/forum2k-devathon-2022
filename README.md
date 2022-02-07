@@ -68,16 +68,17 @@ An overview of:
 ### Screenshots
 Affix the relevant screenshots of the developed project here.
     <div align="center">
-	
 	<label for="img1"><b>Front Page</b></label>
-	<img name="img1" src="./images/img-1.png" alt="forum2k" width="80%"> 
+	<br> 
+	<img name="img1" src="./images/img-1.png" alt="forum2k" width="80%"> <br> <br> <br>
 	
 	<label for="img2"><b>ADMIN Page</b></label>
-	<img  name="img2" src="./images/img-2.png" alt="forum2k" width="80%">
+	<br>
+	<img  name="img2" src="./images/img-2.png" alt="forum2k" width="80%"> <br> <br> <br>
 	
 	<label for="img3"><b>Add Event Page</b></label>
-	<img  name="img3" src="./images/img-3.png" alt="forum2k" width="80%">
-	
+	<br>
+	<img  name="img3" src="./images/img-3.png" alt="forum2k" width="80%"> <br> <br> <br>
      </div>
 
 ### Demonstration Video 
