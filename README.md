@@ -9,9 +9,9 @@ The following created sections in this README.md need to be duly filled, highlig
 ### Solution Description
 
 ```
-    According to the assigned task, We have Developed a Web-App for the Forum2k.
+  According to the assigned task, We have Developed a Web-App for the Forum2k.
 
-    As per the requirements as well as additional features, The Web-App consists of 
+  As per the requirements as well as additional features, The Web-App consists of 
 	-Landing Page
 	-List of Events Page
 	-Contacts Form page
@@ -19,12 +19,11 @@ The following created sections in this README.md need to be duly filled, highlig
 	-All the CRUD operations inbuilt
 	-Admin section
 
-    The frontend was created using React js and A hidden path was created an ADMIN section.
-    Keeping that in mind, The End user cannot tamper with the events list, making it secure 
-    as well as fun to explore.
+  The frontend was created using React js and A hidden path was created an ADMIN section.
+  Keeping that in mind, The End user cannot tamper with the events list, making it secure as well as fun to explore.
     
-    The backend being the heart of the Web-App where the database management happens 
-    connecting the frontend to the backend was bootstraped using Node.js and MongoDB.
+  The backend being the heart of the Web-App where the database management happens 
+  connecting the frontend to the backend was bootstraped using Node.js and MongoDB.
 ```
 
 #### Architecture Diagram
