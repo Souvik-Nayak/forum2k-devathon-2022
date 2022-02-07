@@ -66,7 +66,7 @@ An overview of:
    ```
 
 ### Screenshots
-
+Affix the relevant screenshots of the developed project here.
    <div align="center">
 	<label for="img1"><b>Front Page</b></label>
 	<br>
