@@ -30,6 +30,9 @@ The following created sections in this README.md need to be duly filled, highlig
 #### Architecture Diagram
 
 Affix an image of the flow diagram/architecture diagram of the solution
+<div align="center">
+    <img src="./img-4.png" alt="calculator" width="70%">
+</div>
 
 #### Technical Description
 
