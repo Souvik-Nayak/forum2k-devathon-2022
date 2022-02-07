@@ -68,7 +68,9 @@ An overview of:
 ### Screenshots
 Affix the relevant screenshots of the developed project here.
     <div align="center">
-	<img src="./images/img-1.png" alt="forum2k" width="90%">
+	<img src="./images/img-1.png" alt="forum2k" width="90%"> <br>
+	<img src="./images/img-2.png" alt="forum2k" width="90%"> <br>
+	<img src="./images/img-3.png" alt="forum2k" width="90%">
      </div>
 
 ### Demonstration Video 
