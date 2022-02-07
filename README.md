@@ -1,10 +1,10 @@
 ## Team Name : "runtime_terror" | Your Project Type : Web App
 
-The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
+<!-- The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
 The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. 
 
-**Please feel free to create further sub-sections in this markdown.** The idea is to understand all the particulars of your solution in a singular document.
+**Please feel free to create further sub-sections in this markdown.** The idea is to understand all the particulars of your solution in a singular document. -->
 
 ### Solution Description
 
@@ -27,14 +27,13 @@ The following created sections in this README.md need to be duly filled, highlig
   connecting the frontend to the backend was bootstraped using Node.js and MongoDB.
 ```
 
-#### Architecture Diagram
+### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
 <div align="center">
     <img src="./images/img-4.png" alt="forum2k" width="100%">
 </div>
 
-#### Technical Description
+### Technical Description
 
 An overview of:
 * What technologies/versions were used
