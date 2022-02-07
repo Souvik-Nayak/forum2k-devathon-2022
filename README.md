@@ -9,13 +9,21 @@ The following created sections in this README.md need to be duly filled, highlig
 ### Solution Description
 
 ```
-    We had to create a website for the Forum2k which consists of Landing Page, List of Events Page, Contacts Form as well as
-    CRUD operations of Events. 
-    So, the solution strategy to achieve the desired task was to keep it minimal as well as user friendly. The frontend was 
-    done by React js and we created a hidden path for admin ./admin so that no viewer can temper the events list and added other 
-    features accordingly making it secure as well as fun to explore.
+    According to the assigned task, We have Developed a Web-App for the Forum2k.
+
+    As per the requirements as well as additional features, The Web-App consists of 
+	-Landing Page
+	-List of Events Page
+	-Contacts Form page
+	-Event entry page
+	-All the CRUD operations inbuilt
+	-Admin section
+
+    The frontend was created using React js and A hidden path was created an ADMIN section.Keeping that in mind, 
+    The End user cannot tamper with the events list, making it secure as well as fun to explore.
     
-    The backend was bootstraped using Nodejs and MongoDB which stores the data entered or deleted accprdingly.
+    The backend being the heart of the Web-App where the database management happens connecting the frontend to the backend 
+    was bootstraped using Node.js and MongoDB.
 ```
 
 #### Architecture Diagram
