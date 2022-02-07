@@ -80,6 +80,14 @@ An overview of:
 <label for="img3"><b>Add Event Page</b></label>
 <br>
 <img src="./images/img-3.png" name="img3" alt="forum2k" width="90%"> 
+	
+<label for="img5"><b>Contact Form Page</b></label>
+<br>
+<img src="./images/img-5.png" name="img5" alt="forum2k" width="90%"> 
+	
+<label for="img6"><b>Glimpse Page</b></label>
+<br>
+<img src="./images/img-6.png" name="img6" alt="forum2k" width="90%"> 
  </div>
 
 ### Demonstration Video 
