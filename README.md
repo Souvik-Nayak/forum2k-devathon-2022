@@ -71,15 +71,15 @@ An overview of:
 	
 <label for="img1" ><b>Front Page</b></label>
 <br>
-<img src="./images/img-1.png" name="img1" alt="forum2k" width="80%"> 
+<img src="./images/img-1.png" name="img1" alt="forum2k" width="90%"> 
 
 <label for="img2"><b>ADMIN Page</b></label>
 <br>
-<img src="./images/img-2.png" name="img2" alt="forum2k" width="80%"> 
+<img src="./images/img-2.png" name="img2" alt="forum2k" width="90%"> 
 	
 <label for="img3"><b>Add Event Page</b></label>
 <br>
-<img src="./images/img-3.png" name="img3" alt="forum2k" width="80%"> 
+<img src="./images/img-3.png" name="img3" alt="forum2k" width="90%"> 
  </div>
 
 ### Demonstration Video 
