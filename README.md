@@ -69,16 +69,13 @@ An overview of:
 
     <div align="center">
 	<label><b>Front Page</b></label>
-	=
 	<img src="./images/img-1.png" alt="forum2k" width="80%"> 
 	
 	<label><b>ADMIN Page</b></label>
-	
 	<img src="./images/img-2.png" alt="forum2k" width="80%"> 
 	
 	<label><b>Add Event Page</b></label>
-	
-	<img   src="./images/img-3.png" alt="forum2k" width="80%"> <
+	<img src="./images/img-3.png" alt="forum2k" width="80%"> 
      </div>
 
 ### Demonstration Video 
