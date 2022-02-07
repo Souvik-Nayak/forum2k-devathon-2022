@@ -66,7 +66,7 @@ An overview of:
    ```
 
 ### Screenshots
-
+<!--
 <div align="center">
 	
 <label for="img1" ><b>Front Page</b></label>
@@ -89,6 +89,7 @@ An overview of:
 <br>
 <img src="./images/img-6.png" name="img6" alt="forum2k" width="90%"> 
  </div>
+-->
 
 ### Demonstration Video 
 Share link of your application demostration video. 
