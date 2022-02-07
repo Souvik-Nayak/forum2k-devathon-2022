@@ -68,9 +68,15 @@ An overview of:
 ### Screenshots
 Affix the relevant screenshots of the developed project here.
     <div align="center">
-	<img src="./images/img-1.png" alt="forum2k" width="90%"> <br>
-	<img src="./images/img-2.png" alt="forum2k" width="90%"> <br>
-	<img src="./images/img-3.png" alt="forum2k" width="90%">
+	<label for="img1"><b>Front Page</b></label>
+	<br>
+	<img name="img1" src="./images/img-1.png" alt="forum2k" width="90%"> <br>
+	<label for="img2"><b>Front Page</b></label>
+	<br>
+	<img  name="img1" src="./images/img-2.png" alt="forum2k" width="90%"> <br>
+	<label for="img3"><b>Front Page</b></label>
+	<br>
+	<img  name="img1" src="./images/img-3.png" alt="forum2k" width="90%">
      </div>
 
 ### Demonstration Video 
