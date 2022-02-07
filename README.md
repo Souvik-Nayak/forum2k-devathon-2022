@@ -27,9 +27,9 @@ Affix an image of the flow diagram/architecture diagram of the solution
 An overview of:
 * What technologies/versions were used
 
-  ```sh
-      ReactJS | Express | MongoDB Atlas | NodeJS | npm | Framer Motion | Axios | Gasp | Styled Elements
-  ```
+```sh
+  ReactJS | Express | MongoDB Atlas | NodeJS | npm | Framer Motion | Axios | Gasp | Styled Elements
+```
 
 * Setup/Installations required to run the solution
 
