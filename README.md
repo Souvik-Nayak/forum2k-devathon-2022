@@ -102,4 +102,4 @@ List of team member names and email IDs with their contributions.
 |Aditya Prasad Mishra|adimish777@gmail.com|Frontend, Ideation & Testing|
 
 ### References
-Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project.
+Affix links to the online tools/repositories/blogs etc, which helped you along the development of the project.
