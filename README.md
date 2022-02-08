@@ -30,7 +30,7 @@ The following created sections in this README.md need to be duly filled, highlig
 ### Architecture Diagram
 
 <div align="center">
-    <img src="./Demo/img-4.png" alt="forum2k" width="100%">
+    <img src="./Images/img-4.png" alt="forum2k" width="100%">
 </div>
 
 ### Technical Description
@@ -75,23 +75,23 @@ An overview of:
 	
 <label for="img1" ><b>Front Page</b></label>
 <br>
-<img src="./Demo/img-1.png" name="img1" alt="forum2k" width="90%"> 
+<img src="./Images/img-1.png" name="img1" alt="forum2k" width="90%"> 
 
 <label for="img2"><b>ADMIN Page</b></label>
 <br>
-<img src="./Demo/img-2.png" name="img2" alt="forum2k" width="90%"> 
+<img src="./Images/img-2.png" name="img2" alt="forum2k" width="90%"> 
 	
 <label for="img3"><b>Add Event Page</b></label>
 <br>
-<img src="./Demo/img-3.png" name="img3" alt="forum2k" width="90%"> 
+<img src="./Images/img-3.png" name="img3" alt="forum2k" width="90%"> 
 	
 <label for="img5"><b>Contact Form Page</b></label>
 <br>
-<img src="./Demo/img-5.png" name="img5" alt="forum2k" width="90%"> 
+<img src="./Images/img-5.png" name="img5" alt="forum2k" width="90%"> 
 	
 <label for="img6"><b>Glimpse Page</b></label>
 <br>
-<img src="./Demo/img-6.png" name="img6" alt="forum2k" width="90%"> 
+<img src="./Images/img-6.png" name="img6" alt="forum2k" width="90%"> 
  </div>
 
 ### Team Members
@@ -100,3 +100,6 @@ List of team member names and email IDs with their contributions.
 |-----------|-----|------------|
 |Souvik Nayak|nayaksouvik786@gmail.com|Backend, Database & Testing|
 |Aditya Prasad Mishra|adimish777@gmail.com|Frontend, Ideation & Testing|
+
+### References
+Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project.
