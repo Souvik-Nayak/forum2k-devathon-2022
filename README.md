@@ -94,16 +94,9 @@ An overview of:
 <img src="./Demo/img-6.png" name="img6" alt="forum2k" width="90%"> 
  </div>
 
-
-### Demonstration Video 
-Share link of your application demostration video. 
-
 ### Team Members
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
 |Souvik Nayak|nayaksouvik786@gmail.com|Backend, Database & Testing|
 |Aditya Prasad Mishra|adimish777@gmail.com|Frontend, Ideation & Testing|
-
-### References
-Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project.
